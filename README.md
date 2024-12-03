@@ -1,0 +1,3 @@
+- 👋 Hi, I’m shanaka
+- 👀 I’m interested in programming and explore Technology
+- 🌱 I’m currently learning JavaScript, Python, ReactJs,Nodejs, Html, CSS, 
